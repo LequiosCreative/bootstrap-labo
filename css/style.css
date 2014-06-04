@@ -22,3 +22,29 @@
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
+
+/* Custom Button */
+.btn-custom01 {
+	background-color: #1BA39C;
+	color: #fff;
+}
+.btn-custom01:hover {
+	background-color: #16A085;
+	color: #fff;
+}
+.btn-custom02 {
+	background-color: #EF4836;
+	color: #fff;
+}
+.btn-custom02:hover {
+	background-color: #D64541;
+	color: #fff;
+}
+.btn-custom03 {
+	background-color: #22A7F0;
+	color: #fff;
+}
+.btn-custom03:hover {
+	background-color: #3498DB;
+	color: #fff;
+}
